@@ -1,0 +1,3 @@
+<patch>
+  <csv xpath="//entity_class[@name='playerMale']/property[@class='ItemsOnEnterGame']/property[@name='GameModeSurvival']/@value" op="add">adminCallAirDrop</csv>
+</patch>
