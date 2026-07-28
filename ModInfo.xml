@@ -3,7 +3,7 @@
 	<Name value="CallAirDrop" />
 	<DisplayName value="Call AirDrop" />
 	<Description value="Adds an item that allows you to request a supply airdrop only once." />
-	<Version value="1.0.0" />
+	<Version value="1.0.1" />
 	<Author value="goemoncode" />
 	<Website value="" />
 </xml>

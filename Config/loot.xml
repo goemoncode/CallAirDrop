@@ -1,5 +1,5 @@
 <patch>
-  <append xpath="//lootgroup[@name='groupFireTruck' or @name='groupArmyTruck' or @name='groupLargeWeaponBag' @name='groupAmmoPileLarge']">
+  <append xpath="//lootgroup[@name='groupFireTruck' or @name='groupArmyTruck' or @name='groupLargeWeaponBag' or @name='groupAmmoPileLarge']">
     <item name="adminCallAirDrop" loot_prob_template="veryLow" force_prob="true" />
   </append>
 </patch>
