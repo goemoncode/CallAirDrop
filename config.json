@@ -1,4 +1,5 @@
 {
   "AirDropRangeMin": 0,
-  "AirDropRangeMax": 30
+  "AirDropRangeMax": 30,
+  "AirDropAirBrakeFactor": 0.8
 }
